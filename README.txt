@@ -3,6 +3,9 @@ Frack Man - Object Orientated C++ game
 Shannon Tom
 CS 32
 
+Frack Man passes levels by digging through dirt to find oil while avoiding protesters that 
+search for him. Detailed game details can be found in spec.pdf.
+
 Game Details:
 In FrackMan, the player starts out a new game with three lives and continues to play until
 all of his/her lives have been exhausted. There are multiple levels in FrackMan,
